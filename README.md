@@ -2,11 +2,11 @@
 ---
 https://github.com/pazguille/voix
 
-```
+```sh
 component install pazguille/voix
 ```
 
-```
+```html
 <script src="voix.js"></script>
 ```
 
